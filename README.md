@@ -23,6 +23,8 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 3. Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.
 4. Plot the row values in the graph.
 
+/<br>
+
 ## PROGRAM:
 
 ```
