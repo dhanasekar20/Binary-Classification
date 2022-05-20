@@ -23,7 +23,19 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 3. Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.
 4. Plot the row values in the graph.
 
-/<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## PROGRAM:
 
@@ -52,6 +64,11 @@ pyplot.legend()
 ## OUTPUT:
 
 <img width="320" alt="output" src="https://user-images.githubusercontent.com/75234991/163558187-55b65d72-da4d-49e3-9e39-0a0a741a5319.png">
+
+<br>
+<br>
+<br>
+<br>
 
 ## RESULT:
 
